@@ -5,5 +5,5 @@
 
 Welcome to my Github page!
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=fortune-cook1e&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=fortune-cook1e&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
