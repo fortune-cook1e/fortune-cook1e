@@ -1,19 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+### This is Fortune Cookie!
 
-<!--
-**fortune-cook1e/fortune-cook1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fortune-cook1e)
 
-Here are some ideas to get you started:
+Welcome to my Github page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fortune-cook1e&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 🌱 Things I am currently working on: 
+- 脚手架制作
+- UI组件库搭建
+
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=fortune-cook1e&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
 
