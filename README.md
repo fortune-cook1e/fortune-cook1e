@@ -2,7 +2,7 @@
 ### This is fortune cookie!
 
 - Hi, I'm @fortune-cook1e
-- A Front-end engineer in China
+- A Front-end engineer in Shenzhen, China
 - Reach me [Linktree](https://linktr.ee/leon_cookie)
 
 ###
