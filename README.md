@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortune-cook1e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🤝 Hi, I'm @fortune-cook1e
-- 💻 A Front-End Developer with **6** years of experience
+- 💻 A Front-End Developer with **5** years of experience
 - 🎯 Passionate about coding, travelling, photography and cs2
 - 📫 How to reach me fortunecookie0106@outlook.com
 
