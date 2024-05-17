@@ -7,7 +7,7 @@
 
 - 🤝 Hi, I'm @fortune-cook1e
 - 💻 A Front-End Developer with **5** years of experience
-- 🎯 Passionate about coding, travelling, photography and cs2
+- 🎯 Passionate about coding, travelling, photography and CS2
 - 📫 How to reach me fortunecookie0106@outlook.com
 
 
