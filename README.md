@@ -8,7 +8,7 @@
 - 🤝 Hi, I'm @fortune-cook1e
 - 💻 A Front-End Developer with **6** years of experience
 - 🎯 Passionate about coding, travelling, photography and CS2
-- 📫 How to reach me fortunecookie0106@outlook.com
+- 📫 How to reach me leon.gao.dev@outlook.com
 
 
 ### Languages and Tools:
