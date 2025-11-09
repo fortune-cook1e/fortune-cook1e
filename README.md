@@ -8,7 +8,7 @@
 💻 Full-Stack Developer / 📷 Weekend Photographer
 
 
-## About me
+## 🙋 About me
 
 - 🤝 Hi, I'm @fortune-cook1e, but just call me **Leon** 
 - 💻 A front-end dev on a mission to go full-stack 🚀  
