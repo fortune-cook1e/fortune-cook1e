@@ -12,7 +12,7 @@
 
 - 🤝 Hi, I'm @fortune-cook1e, but just call me **Leon** 
 - 💻 A front-end dev on a mission to go full-stack 🚀  
-- 😎 When I’m not coding, I’m probably playing **CS2**, **editing clips**, or out s**hooting photos**. 
+- 😎 When I’m not coding, I’m probably playing **CS2**, **editing clips**, or out **shooting photos**. 
 - 🌱 Currently diving into **Go**, **video editing** & **color grading**
 - 📫 How to reach me - leon.gao.personal@outlook.com
 
