@@ -14,7 +14,7 @@
 - 💻 A front-end dev on a mission to go full-stack 
 - 😎 When I’m not coding, I’m probably playing **CS2**, **making vlogs**, or out **shooting photos**. 
 - 🌱 Currently diving into **Go**, **ML** and **Python**
-- 📫 How to reach me - leon.gao.personal@outlook.com
+- 📫 How to reach me - leon.gao.dev@outlook.com
 
 
 ## 🚀 Tech Stack
