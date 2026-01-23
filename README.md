@@ -9,8 +9,8 @@
 ## 🙋 About me
 
 - 🤝 Hi, I'm @fortune-cook1e — just call me **Leon**
-- 💻 **Front-end developer** focused on building practical and maintainable web applications
-- 😎 When I’m not coding, I’m probably playing **CS2**, **making travel vlogs**, or doing **photography**
+- 💻 **Front-end developer** working mainly with **React** and **TypeScript**
+- 😎 Outside of coding, I enjoy CS2, travel vlogs, and photography
 - 🌱 Currently exploring **Go**, **Python**, and **AI/ML** through hands-on projects
 - 📫 How to reach me - leon.gao.dev@outlook.com
 
