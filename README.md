@@ -10,10 +10,10 @@
 
 ## 🙋 About me
 
-- 🤝 Hi, I'm @fortune-cook1e, but just call me **Leon** 
-- 💻 A front-end dev on a mission to go full-stack 
-- 😎 When I’m not coding, I’m probably playing **CS2**, **making vlogs**, or out **shooting photos**. 
-- 🌱 Currently diving into **Go**, **ML** and **Python**
+- 🤝 Hi, I'm @fortune-cook1e — just call me **Leon** 
+- 💻 Front-end developer focused on building practical and maintainable web applications 
+- 😎 When I’m not coding, I’m probably playing **CS2**, making travel vlogs, or doing photography  
+- 🌱 Currently exploring Go, Python, and **AI/ML** through hands-on projects  
 - 📫 How to reach me - leon.gao.dev@outlook.com
 
 
