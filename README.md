@@ -11,7 +11,7 @@
 - 🤝 Hi, I'm @fortune-cook1e — just call me **Leon**
 - 💻 **Front-end developer** working mainly with **React** and **TypeScript**
 - 😎 Outside of coding, I enjoy CS2, travel vlogs, and photography
-- 🌱 Currently exploring **Go**, **Python**, and **AI/ML** through hands-on projects
+- 🌱 Currently exploring **Go**, **Python**, and **AI/ML** in my spare time
 - 📫 How to reach me - leon.gao.dev@outlook.com
 
 ## 🚀 Tech Stack
