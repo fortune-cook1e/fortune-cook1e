@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats-three-blush-95.vercel.app/api/top-langs/?username=fortune-cook1e&layout=compact)](https://github-readme-stats-three-blush-95.vercel.app/api/top-langs/?username=fortune-cook1e&layout=compact)
 
-💻 Full-Stack Developer / 📷 Weekend Photographer
-
 ## 🙋 About me
 
 - 🤝 Hi, I'm **Leon** (@fortune-cook1e)
