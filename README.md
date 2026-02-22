@@ -9,7 +9,7 @@
 - 🤝 Hi, I'm **Leon** ([@fortune-cook1e](https://github.com/fortune-cook1e))
 - 💻 **Full-Stack developer** working mainly with **React**, **TypeScript** and **Node.js**
 - 😎 Outside of coding, I enjoy CS2, travel vlogs, and photography
-- 🧑‍💻 Currently exploring **Go**, **Python** and **AI/ML** in my spare time
+- 🧑‍💻 Currently diving in **Go**, **Python** and **Machine Learning** in my spare time
 - 📮 How to reach me - **leon.gao.dev@outlook.com**
 
 ## 🚀 Tech Stack
