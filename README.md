@@ -6,11 +6,11 @@ I like building useful tools and exploring how things work under the hood.
 
 ## 🧑‍💻 What I'm up to
 
-- 🤖 Building a personal assistant with **AI agents** — because it's 2026 and apparently everything needs an agent now
+🤖 Building a personal assistant with **AI agents** — because it's 2026 and apparently everything needs an agent now
 
-- ✈️ Traveling around, enjoying life, and shooting/editing videos along the way
+✈️ Traveling around, enjoying life, and shooting/editing videos along the way
 
-- 📚 Currently switching between Japanese history and personal finance — _A Modern History of Japan_ and _The Simple Path to Wealth_
+📚 Currently switching between Japanese history and personal finance — _A Modern History of Japan_ and _The Simple Path to Wealth_
 
 ## 🧰 My toolbox
 
