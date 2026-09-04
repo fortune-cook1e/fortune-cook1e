@@ -26,6 +26,8 @@ I like building useful tools and exploring how things work under the hood.
 
 ![Leon's GitHub stats](https://github-readme-stats-three-blush-95.vercel.app/api?username=fortune-cook1e&show_icons=true&theme=react)
 
+![Top Languages](https://github-readme-stats-three-blush-95.vercel.app/api/top-langs/?username=fortune-cook1e&layout=compact&theme=react)
+
 <sub>Yes, I know. GitHub stats don't define a software engineer. Let me have my pretty card.</sub>
 
 ---
